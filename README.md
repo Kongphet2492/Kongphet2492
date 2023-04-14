@@ -14,7 +14,7 @@
   <a href="your-whatsapp-URL">
     <img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
-  
+  <br>
   <img src="https://komarev.com/ghpvc/?username=Kongphet2492&style=flat-square&color=blue" alt="account counter"/>
 </div>
 

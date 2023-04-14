@@ -14,13 +14,14 @@
   <a href="your-whatsapp-URL">
     <img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
+  
+  <img src="https://komarev.com/ghpvc/?username=Kongphet2492&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg" alt="html" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg" alt="css" width="45" height="45"/>
+
 </p>
 
 <-- **Kongphet2492/Kongphet2492** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
